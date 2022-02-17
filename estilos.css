@@ -1,0 +1,54 @@
+.bloque-azul-oscuro{
+    background-color: rgba(22, 22, 97, 0.959);
+    color:white;
+    height: 70px;
+    text-align: center;
+}
+
+.bloque-azul{
+    background-color:#00b7ff;
+}
+
+p{
+    text-align: center;
+}
+
+.nombre{
+    font-size: 30px;
+}
+
+.p1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+.white-box{
+    background-color: white;
+    height: 200px;
+    width:  250px;
+    
+}
+
+.imagen-perfil{
+    margin: 1em auto;
+    align-self: center;
+}
+.white-color{
+    color: white;
+}
+.contactme{
+    height: 200px;
+    line-height: 200px;
+}
+.boton-contacto{
+    height: 100px;
+}
+.boton-izquierda{
+    text-align: left;
+}
+.boton-derecha{
+    text-align: right;
+}
+.btn{
+    background-color: rgba(36, 138, 206, 0.959);
+    border-color: rgba(36, 138, 206, 0.959);
+}
